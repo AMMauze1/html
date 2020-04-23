@@ -3,11 +3,14 @@
                   h3   { color: black; font-weight: normal;margin-left: 150px;}
                   li{color:#fff; font-weight: normal;}
                   a{color:#fff; font-weight: normal;}
+                    td{color:#fff; font-weight: normal;}
                      p { color: #fff; font-weight: normal;}
                       p { margin-left:50px;
                           margin-left: - right: :50px}
                        body{ background: url(https://www.sogoodlanguages.com/wp-content/uploads/2017/04/wood.jpg)
-           }
+                     }
+                         tr td{color:red}
+                         td{ color:green;}
 
      .conteiner{
        display: flex;
